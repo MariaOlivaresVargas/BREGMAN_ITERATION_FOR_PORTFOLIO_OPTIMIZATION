@@ -18,7 +18,7 @@ La interfaz no es interactiva con el usuario
 ---------------------------------------------------------------------------
 1) Ejecute el programa (main.py). 
 
-2)El algoritmo se implementará. 
+2) El algoritmo se implementará. 
 
 *El algoritmo tiene cargado un ejemplo. Imprime el portafolio 1 y 2.Esto puede ajustarse en
  en el for de la linea 35. Para activar todos los portafolios, se pone (0,40).
